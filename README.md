@@ -17,3 +17,5 @@ Proyek ini Model pembelajaran mesin di dalam aplikasi ini telah dilatih untuk me
 ## 📊 Sumber Dataset
 Dataset citra yang digunakan untuk melatih dan menguji model sistem cerdas ini diperoleh secara publik melalui **Roboflow Universe**. 
 * **Tautan Dataset:** [Coffee Bean Classification Dataset by Defecy](https://universe.roboflow.com/defecy/coffee-bean-classification-2stfh)
+
+https://universe.roboflow.com/defecy/coffee-bean-classification-2stfh
