@@ -1,0 +1,12 @@
+# Mengabaikan folder gambar
+dataset/
+valid/
+test/
+
+
+# Mengabaikan folder screenshot (opsional, hapus baris ini jika ingin di-upload)
+Hasil Akhir*/
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
